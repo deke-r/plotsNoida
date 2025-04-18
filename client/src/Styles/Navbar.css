@@ -1,0 +1,28 @@
+.w-40 {
+    width: 40%;
+  }
+  
+.search-btn{
+    position: absolute !important;
+    right: 0px;
+    top: -2px;
+    font-size: 20px !important;
+}
+
+.navbar{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 10 !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url('../Assets/images/menu1.svg') !important;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  
+}
+
+.navbar-toggler{
+    border: none !important;
+    box-shadow: none !important;
+}
